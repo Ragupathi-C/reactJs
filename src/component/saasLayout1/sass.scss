@@ -1,0 +1,31 @@
+$primaryColor: yellow;
+$secondaryColor : #5F9DF7;
+$bodyColor : teal;
+$sectionColor : greenyellow;
+$saasbodyheight: 80vh;
+$saasbodywidth: 80vw;
+$sasssectionheight: 50vh;
+$saassectionwidth: 50vw;
+
+.ulList1 ul {
+    background-color: $primaryColor;
+    padding: 2%;
+}
+
+.ulList1 li {
+    color: $secondaryColor;
+}
+
+.sass-1-body {
+    height: $saasbodyheight;
+    width: $saasbodywidth;
+    background-color: $bodyColor;
+    margin: auto;
+}
+
+.sass-1-section {
+    height: $sasssectionheight;
+    width: $saassectionwidth;
+    background-color: $sectionColor;
+    margin: auto;
+}

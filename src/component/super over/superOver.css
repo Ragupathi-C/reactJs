@@ -1,0 +1,25 @@
+.Parent_div{
+    background-color: black;
+    text-align: center;
+    color: whitesmoke;
+    height: 100vh;
+    padding: 50px;
+}
+.Content-Body{
+    display: flex;
+    justify-content: center; 
+}
+
+.Rcb_div{
+    height: 500px;
+    width: 450px;
+    background-image: url('Rcb_Logo.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.Csk_Div{
+    background-image: url('Csk-L.jpg');
+    height: 500px;
+    width: 450px;
+    background-size: cover;
+}

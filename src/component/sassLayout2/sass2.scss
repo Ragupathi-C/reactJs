@@ -1,0 +1,31 @@
+$primaryColor: pink;
+$secondaryColor : black;
+$bodyColor : pink;
+$sectionColor : black;
+$saasbodyheight: 80vh;
+$saasbodywidth: 80vw;
+$sasssectionheight: 50vh;
+$saassectionwidth: 50vw;
+
+.ulList2 ul {
+    background-color: $primaryColor;
+    padding: 2%;
+}
+
+.ulList2 li {
+    color: $secondaryColor;
+}
+
+.sass-2-body {
+    height: $saasbodyheight;
+    width: $saasbodywidth;
+    background-color: $bodyColor;
+    margin: auto;
+}
+
+.sass-2-section {
+    height: $sasssectionheight;
+    width: $saassectionwidth;
+    background-color: $sectionColor;
+    margin: auto;
+}

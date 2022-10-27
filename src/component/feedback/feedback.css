@@ -1,0 +1,18 @@
+.emoji{
+    height: 25%;
+    padding: 2.5%;
+    margin: 10% auto auto auto;
+    color: #FFDE00;
+
+}
+.feedback_div{
+   height: 80vh;
+   width: 50vw;
+   text-align: center;
+   margin: auto;
+   border-radius: 5%;
+}
+.feedback_maindiv{
+    background-color: #FFD6EC;
+    height: 120vh;
+}

@@ -1,0 +1,15 @@
+.thankyoucard-body-div{
+    height: 80vh;
+    width: 50vw;
+    text-align: center;
+    margin: auto;
+    border-radius: 5%;
+}
+.thankyoucard_maindiv{
+    background-color: #FFD6EC;
+    height: 120vh;
+}
+.heart{
+    height: 25%;
+    margin: 10% auto 5% auto;
+}
